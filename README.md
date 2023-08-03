@@ -1,2 +1,2 @@
 # BoxServersPT2
-Free boxes
+Free boxes from minehut, includes every popular box server.
